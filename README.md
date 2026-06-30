@@ -49,7 +49,8 @@ Arduino Uno
 
 ## 🖼️ Esquemático
 
-![Circuito](circuit_images/image_simulator.jpeg)
+![Circuito Simulador](circuit_images/image_simulador.png)
+![Circuito Real](circuit_images/IMG_9091.jpg)
 
 ---
 
